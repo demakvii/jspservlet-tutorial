@@ -1,0 +1,9 @@
+INDEX VERSION 1.127
+G:\techlabs\techlabs\JSPServlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\817630686.index
+\beer-app\src
+G:\techlabs\techlabs\JSPServlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2745566425.index
+\new-welcome-app\src
+G:\techlabs\techlabs\JSPServlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3958559323.index
+\welcome-app\src
+G:\techlabs\techlabs\JSPServlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2723056004.index
+\student-mvc-app\src
